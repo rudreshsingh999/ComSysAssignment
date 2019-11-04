@@ -1,4 +1,4 @@
-M = 16;
+M = input('Value of M (Must be a power of 2) : ');
 k = log2(M);
 V = zeros(1,M);
 W = zeros(1,M); 
